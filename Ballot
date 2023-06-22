@@ -1,0 +1,33 @@
+FILE EXPLORER
+
+17181920212223242526272814151610111213789456123
+// SPDX-License-Identifier: GPL-3.0
+
+pragma solidity >=0.7.0 <0.9.0;
+import "remix_tests.sol"; // this import is automatically injected by Remix.
+import "hardhat/console.sol";
+import "../contracts/3_Ballot.sol";
+
+contract BallotTest {
+
+    bytes32[] proposalNames;
+
+0
+listen on all transactions
+Search with transaction hash or address
+ Welcome to Remix 0.33.2 
+
+Your files are stored in indexedDB, 1.6 KB / 142.25 GB used
+
+You can use this terminal to: 
+Check transactions details and start debugging.
+Execute JavaScript scripts:
+ - Input a script directly in the command line interface 
+ - Select a Javascript file in the file explorer and then run `remix.execute()` or `remix.exeCurrent()`  in the command line interface  
+ - Right click on a JavaScript file in the file explorer and then click `Run` 
+The following libraries are accessible:
+web3 version 1.5.2
+ethers.js 
+remix
+Type the library name to see available commands.
+>
